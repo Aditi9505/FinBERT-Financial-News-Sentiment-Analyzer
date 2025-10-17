@@ -33,4 +33,4 @@ Task: Sequence Classification (Sentiment Analysis)
 Classes: Positive, Negative, Neutral
 =======
 # FinBERT-Financial-News-Sentiment-Analyzer
->>>>>>> 04cbec6406a88d92bdf6de03b5e4c198feb1922b
+live app link : https://finbert-financial-news-sentiment-analyzer-9pjechcw5sk2debendke.streamlit.app/
