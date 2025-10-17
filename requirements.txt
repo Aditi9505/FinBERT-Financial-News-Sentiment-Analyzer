@@ -1,0 +1,6 @@
+streamlit
+torch
+numpy
+pandas
+transformers
+scikit-learn # Needed for f1_score_func/general metrics
