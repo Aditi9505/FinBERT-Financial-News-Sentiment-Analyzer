@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 FinBERT Financial Sentiment Analysis Web App
 This is a web application built using Streamlit that hosts a fine-tuned FinBERT model for performing sentiment analysis on financial news headlines.
 
